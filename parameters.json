@@ -65,7 +65,7 @@
             "value": "azureops"
         },
         "adminPublicKey": {
-            "value": null
+            "value": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDNDcU3aCGVCqpTLhm2G2bYo63oQ/nZcNkLaLRchURGx2LO9VnQ8b5sDfdqRdnY4f99xEAsbIInUiOW9SPzit0wAkVu/uyEL+QeFn0gHSeotEDwRCmkz8VVYtmh5TOPcYlFW6kVE9m1cqgy+4TkBnkzo+3E7TktLb5vrziiaoBtF6FCGFBvrykUP8uBPeNj+t/qEjpnFcziLBSDkXXZtvOlPH/hb5oD4F5FFpvFtj6ouZicEyyRhS+XfmpA6klp9yzMd7n0kyIkcEdhRZcnFGmjjPxNyuUon0lzvqac1DEs2VfYXGyhoXz2s4q5MU52jm5oCmk6f9wU57QLaz2simir"
         },
         "diagnosticsStorageAccountName": {
             "value": "table0jktuesrgdiag"
